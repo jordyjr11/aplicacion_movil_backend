@@ -207,7 +207,7 @@ Respuesta esperada:
 
 {
 
-&nbsp; "token": "<tu\_token\_aquí>",
+&nbsp; "token": Token 018558131f0bd5bd7d832f7ad587feee32a79b0f,
 
 &nbsp; "email": "test@example.com",
 
@@ -227,7 +227,7 @@ Headers:
 
 
 
-Authorization: Token <tu\_token\_aquí>
+Authorization: Token 018558131f0bd5bd7d832f7ad587feee32a79b0f
 
 
 
@@ -255,7 +255,7 @@ Headers:
 
 
 
-Authorization: Token <tu\_token\_aquí>
+Authorization: Token 018558131f0bd5bd7d832f7ad587feee32a79b0f
 
 
 
@@ -283,7 +283,7 @@ Headers:
 
 
 
-Authorization: Token <tu\_token\_aquí>
+Authorization: Token 018558131f0bd5bd7d832f7ad587feee32a79b0f
 
 
 
@@ -299,7 +299,7 @@ Authorization: Token <tu\_token\_aquí>
 
 &nbsp;   "id": 1,
 
-&nbsp;   "name": "Admin"
+&nbsp;   "jordy": "Admin"
 
 &nbsp; },
 
@@ -307,9 +307,10 @@ Authorization: Token <tu\_token\_aquí>
 
 &nbsp;   "id": 2,
 
-&nbsp;   "name": "Usuario"
+&nbsp;   "alisson": "Usuario"
 
 
 
 &nbsp; }
+
 
