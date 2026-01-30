@@ -1,4 +1,4 @@
-AOLICACION\_MOVIL
+APLICACION\_MOVIL
 
 
 
@@ -312,5 +312,6 @@ Authorization: Token 018558131f0bd5bd7d832f7ad587feee32a79b0f
 
 
 &nbsp; }
+
 
 
