@@ -1,0 +1,24 @@
+### Registro
+POST http://127.0.0.1:8000/api/accounts/register/
+Content-Type: application/json
+
+{
+  "username": "jordi",
+  "email": "jordi@example.com",
+  "password": "123456",
+  "role": 1
+}
+
+
+### Login
+POST http://127.0.0.1:8000/api/accounts/login/
+Content-Type: application/json
+
+{
+  "username": "jordi",
+  "password": "123456"
+}
+
+### Perfil
+GET http://127.0.0.1:8000/api/accounts/profile/
+Authorization: Token <tu-token-aqui>
